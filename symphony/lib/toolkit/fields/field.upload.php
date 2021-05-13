@@ -15,6 +15,7 @@ class FieldUpload extends Field implements ExportableField, ImportableField
         'image/jpeg',
         'image/pjpeg',
         'image/png',
+        'image/webp',
         'image/x-png'
     );
 
