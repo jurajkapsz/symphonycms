@@ -10,7 +10,7 @@ $validators = array(
 );
 
 $upload = array(
-    'image' => '/\.(?:bmp|gif|jpe?g|png)$/i',
+    'image' => '/\.(?:bmp|gif|jpe?g|png|webp)$/i',
     'document' => '/\.(?:docx?|pdf|rtf|txt)$/i',
 );
 
